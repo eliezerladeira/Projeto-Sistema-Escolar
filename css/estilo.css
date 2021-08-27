@@ -1,0 +1,36 @@
+/* CSS Document */
+/* Desenvolvido por Eliezer Ladeira */
+/* 26/08/2021 */
+
+body {
+    background: #9CF;
+}
+
+#logo {
+    width: 350px;
+    height: 247px;
+    margin: auto;
+}
+
+#logo img {
+    width: 350px;
+    height: 247px;
+    margin: auto;
+}
+
+#caixa_login {
+    background: #B9B9B9;
+    width: 450px;
+    height: 300px;
+    margin: -35px auto;
+    border: 1px solid #CCC;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#caixa_login table {
+    font: 15px Arial, Helvetica, sans-serif;
+    color: #666;
+    margin: 40px; 10px; 10px; 10px;
+}
